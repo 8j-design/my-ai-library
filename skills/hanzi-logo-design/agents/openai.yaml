@@ -1,0 +1,4 @@
+interface:
+  display_name: "汉字Logo与创意标题"
+  short_description: "汉字标志、字图同构与主题大标题的构思、制作和反馈修改"
+  default_prompt: "请使用 $hanzi-logo-design，根据我的主题、文字和参考设计汉字Logo或创意大标题。"
