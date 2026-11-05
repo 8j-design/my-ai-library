@@ -6,8 +6,9 @@
 
 | 当前需要 | 入口 | 范围 |
 | --- | --- | --- |
-| 资料库操作、授权与归档 | [AGENTS.md](AGENTS.md) | 当前 v2.0，16 项合并规则 |
+| 资料库操作、授权与归档 | [AGENTS.md](AGENTS.md) | 当前 v2.1，16 项合并规则 |
 | 总管理与创作协作 | [COLLABORATION](notes/COLLABORATION.md) | 当前 v1.2；目标、判断、反馈、接续与有限重试 |
+| 导出含历史的备份、换模型接续 | [完整历史备份与接续](notes/backup-and-handoff.md) | 当前文件、Git 历史、迭代说明、恢复检查；本地容量约 10 GiB 为可调整参考 |
 | 这次为什么改规则 | [规则审查与 Autoloop 对照](notes/governance-audit-20261105.md) | 旧 23 条逐项去向、实际改动与验证边界 |
 | 初次了解和 Git 起步 | [README](README.md)、[学习顺序](notes/learning-guide.md)、[Git 教程](notes/git-github.md) | 按需要阅读，不要求每次重走教程 |
 | 查外部开源项目 | [INDEX](INDEX.md) | 3 张外部项目卡；不代表已安装 |
