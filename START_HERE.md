@@ -1,3 +1,5 @@
+> 2026-11-08增量整理：[三项目归档与规则融合](notes/research-archive-20261108.md)，[设计研究原件](projects/design/research-20261108/README.md)。协作规范现为v1.3，正文与历史分开。
+
 # 私有资料库：统一接续与归档入口
 
 更新：2026-11-05（北京时间）。固定私有库：[8j-design/my-ai-library](https://github.com/8j-design/my-ai-library)，主分支 main。登录状态每次以实际连接核验，不由本文保证。
@@ -7,7 +9,7 @@
 | 当前需要 | 入口 | 范围 |
 | --- | --- | --- |
 | 资料库操作、授权与归档 | [AGENTS.md](AGENTS.md) | 当前 v2.1，16 项合并规则 |
-| 总管理与创作协作 | [COLLABORATION](notes/COLLABORATION.md) | 当前 v1.2；目标、判断、反馈、接续与有限重试 |
+| 总管理与创作协作 | [COLLABORATION](notes/COLLABORATION.md) | 当前 v1.3；目标、判断、反馈、接续与有限重试 |
 | 导出含历史的备份、换模型接续 | [完整历史备份与接续](notes/backup-and-handoff.md) | 当前文件、Git 历史、迭代说明、恢复检查；本地容量约 10 GiB 为可调整参考 |
 | 这次为什么改规则 | [规则审查与 Autoloop 对照](notes/governance-audit-20261105.md) | 旧 23 条逐项去向、实际改动与验证边界 |
 | 初次了解和 Git 起步 | [README](README.md)、[学习顺序](notes/learning-guide.md)、[Git 教程](notes/git-github.md) | 按需要阅读，不要求每次重走教程 |

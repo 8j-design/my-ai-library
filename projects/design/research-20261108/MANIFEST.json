@@ -1,0 +1,1007 @@
+{
+  "date": "2026-11-08",
+  "scope": "筛选原件备份，不是账号全量备份",
+  "files": [
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo图形意象化研究-20261023\\01-设计框架与目标.md",
+      "path": "projects/design/research-20261108/sources/Logo图形意象化研究-20261023/01-设计框架与目标.md",
+      "bytes": 9483,
+      "sha256": "7947F28AB853331682C7AED075124A5E3398BACF868731FE42334D9D4A1AA038",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo图形意象化研究-20261023\\02-案例拆解与资料索引.md",
+      "path": "projects/design/research-20261108/sources/Logo图形意象化研究-20261023/02-案例拆解与资料索引.md",
+      "bytes": 11565,
+      "sha256": "F23CD691E7AED6F7338CA3466224C551E36A5D62E1914B4CFD10645CF29E25E8",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo图形意象化研究-20261023\\03-项目工作表与验收.md",
+      "path": "projects/design/research-20261108/sources/Logo图形意象化研究-20261023/03-项目工作表与验收.md",
+      "bytes": 3980,
+      "sha256": "0D55E7CDB9F2219C1215468FADB5F6BFD558316E88AB8520574F6064BE59FC6E",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo图形意象化研究-20261023\\README.md",
+      "path": "projects/design/research-20261108/sources/Logo图形意象化研究-20261023/README.md",
+      "bytes": 2459,
+      "sha256": "7C3C68F05D8FBCC474CD0AA25C1D0C5B9BE6D412109E7540CFFAEF2690C3B62C",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo图形意象化研究-20261023\\阅读证据\\来源说明.md",
+      "path": "projects/design/research-20261108/sources/Logo图形意象化研究-20261023/阅读证据/来源说明.md",
+      "bytes": 1171,
+      "sha256": "467DEA3614C7BBF854D3297A3ED582A1E55F74329773610487679964127520A2",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo图形意象化研究-20261023\\阅读证据\\CI-作者项目首图.jpg",
+      "path": "projects/design/research-20261108/sources/Logo图形意象化研究-20261023/阅读证据/CI-作者项目首图.jpg",
+      "bytes": 207285,
+      "sha256": "4C8F885C22F301A35ABA114F7BC0E1CBAA3AFB5999AFF6194308F3FA153D8898",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo图形意象化研究-20261023\\阅读证据\\GFW-钢笔与勺子-机构档案.jpeg",
+      "path": "projects/design/research-20261108/sources/Logo图形意象化研究-20261023/阅读证据/GFW-钢笔与勺子-机构档案.jpeg",
+      "bytes": 17002,
+      "sha256": "125655C41169E2ED712FB7268E71F4BD385EF276672C4EDE4C2F4E2F19F61786",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo图形意象化研究-20261023\\阅读证据\\NBC-作者项目首图.jpg",
+      "path": "projects/design/research-20261108/sources/Logo图形意象化研究-20261023/阅读证据/NBC-作者项目首图.jpg",
+      "bytes": 393622,
+      "sha256": "A41F7C7845FB2A0DFB54F5F385FE0C0F0404B7CF4F2BF0FD231B958EC85E9657",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\01-图形意象转化的底层机制.md",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/01-图形意象转化的底层机制.md",
+      "bytes": 11411,
+      "sha256": "2D952FB2F9A7DE883A84740B79B9A8171BD74407BF553F19C6F7480331B4647A",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\02-二十组案例逐案拆解.md",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/02-二十组案例逐案拆解.md",
+      "bytes": 18630,
+      "sha256": "22D65DC36D368FC87D8387560022F89DA744280A80B7E182F52CF7AA6022D470",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\03-结构干预与迁移试验.md",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/03-结构干预与迁移试验.md",
+      "bytes": 6580,
+      "sha256": "4CE15D64B0F312B251192A22BF1C5440AF5B6AD14D7A0CEAEABAB01ECEED089C",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\04-怎样进行真正有效的案例学习.md",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/04-怎样进行真正有效的案例学习.md",
+      "bytes": 9728,
+      "sha256": "93BC0E3C5AA94856258E1D62AFC549508D88EB9EC6E3C1833564301862DA0462",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\05-证据台账与研究限制.md",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/05-证据台账与研究限制.md",
+      "bytes": 6438,
+      "sha256": "7949A7B330E016943B04A1C6594D678A3E29A043327134F3805A0A2F361395B3",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\download-extra.py",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/download-extra.py",
+      "bytes": 982,
+      "sha256": "A775F37FC33A0F95D17636CC561780FCECE7C7CD13C3D267CB3A17FB2104304B",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\draw-studies.py",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/draw-studies.py",
+      "bytes": 7084,
+      "sha256": "8DFCB41BEEE3F4FFB6B795C6511AF8E062287C5B7E25E01C52A818362BDD285A",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\prepare-evidence.py",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/prepare-evidence.py",
+      "bytes": 2697,
+      "sha256": "7787AF9EB53D5A404A58AEFB7E90D2844D14161DD730A0C9F705EF92BC297AAA",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\README.md",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/README.md",
+      "bytes": 3347,
+      "sha256": "925CC4D2D9F6BBE263C2DBD52FF3162B781B4936F8EFBF10FEE4DF21B32C15F4",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\render-reference.cjs",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/render-reference.cjs",
+      "bytes": 796,
+      "sha256": "0B72069261FA6A02E394BF0E28788EBF7DBC28CB513B7EA4F7A8DB9785CED32C",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\validate-research.py",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/validate-research.py",
+      "bytes": 2182,
+      "sha256": "F0C4869358A1CD3B0266A1C0CB5AFEE389F3857823A0AB3372C97CDD886A90E3",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\原始参考\\Airbnb-概念图.jpg",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/原始参考/Airbnb-概念图.jpg",
+      "bytes": 117674,
+      "sha256": "C9C5BFC3447C2754505ADDB255293B85A657CAB2364AA0ADAC7FBA256610BF8C",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\原始参考\\AnimalPlanet-标志.jpg",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/原始参考/AnimalPlanet-标志.jpg",
+      "bytes": 440740,
+      "sha256": "0F4903DB8D69A52CB9FEB75CCF2DEA7482FCA76D001A6403F9CCA77479A11B72",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\原始参考\\Aquarium-标志.svg",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/原始参考/Aquarium-标志.svg",
+      "bytes": 1665,
+      "sha256": "768206907C04F25CC44A80358FB99C936CF04A00995C58D9268C60914C05B1F8",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\原始参考\\Aquarium-应用.jpg",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/原始参考/Aquarium-应用.jpg",
+      "bytes": 218903,
+      "sha256": "194F4B3455314E6CC35E9A26A5C227720AD167DE561890611533BE7A02078A91",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\原始参考\\Beijing2022-IOC正式会徽.jpg",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/原始参考/Beijing2022-IOC正式会徽.jpg",
+      "bytes": 27749,
+      "sha256": "751E953D89C7EAA27158C67413DD4CD38BB21D267151C243EA3F7708C1592A0D",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\原始参考\\BOC-图像转引.png",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/原始参考/BOC-图像转引.png",
+      "bytes": 153611,
+      "sha256": "0E1D828400FC958B5CCE374C2B57C15433EBFB919D8F156058E569842DAA32FD",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\原始参考\\Chase-草图.jpg",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/原始参考/Chase-草图.jpg",
+      "bytes": 31038,
+      "sha256": "62B048A373CE26F1F1FB8F5F3D227183D75A97D5C09EE6055CC4109F7322BC1C",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\原始参考\\FedEx-访谈原图.gif",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/原始参考/FedEx-访谈原图.gif",
+      "bytes": 2002,
+      "sha256": "98E8DFE8E840BDAF7B164884CC40A9D5AEF3100E7A982C5FAF561CA79B1DF26E",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\原始参考\\IBM-官方条纹图.jpg",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/原始参考/IBM-官方条纹图.jpg",
+      "bytes": 28137,
+      "sha256": "35CC74D5B500C4CA2E97CBFC981DAF2529D83BD141793F8E58A1FB6DEEBAD698",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\原始参考\\IBM-官方谐音图.jpg",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/原始参考/IBM-官方谐音图.jpg",
+      "bytes": 843210,
+      "sha256": "796A539F1A5B0612D45F6DE9538C0283B2CDD864C9DA8A0D3E7EE587B43746AC",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\原始参考\\Mitsubishi-官方演变.gif",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/原始参考/Mitsubishi-官方演变.gif",
+      "bytes": 3896,
+      "sha256": "803E3FAD3111D073187702CA98FA12E28372E45F8B3AFCF0BB3B776A7E59B9E0",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\原始参考\\NBC-草图右.jpg",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/原始参考/NBC-草图右.jpg",
+      "bytes": 19142,
+      "sha256": "8C99DA19F135700AE37F762F597F0F3F10A06D3EB220044A9DEEDB88638399EA",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\原始参考\\NBC-草图左.jpg",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/原始参考/NBC-草图左.jpg",
+      "bytes": 19356,
+      "sha256": "8970C933AF712C0A7C5D384FD59D117E87B2232308948397D4863E243213027F",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\原始参考\\Unilever-官方.svg",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/原始参考/Unilever-官方.svg",
+      "bytes": 63410,
+      "sha256": "CA8B6865144FB71F0A005EEAA8DF2F3F90E5456630BAD9A457868921C77069A2",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\原始参考\\WWF-演变.png",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/原始参考/WWF-演变.png",
+      "bytes": 101786,
+      "sha256": "96DA2B4A3A2E603BAF1D59C303C94ACCAA87C91C482DEECB962D543776356348",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\原始参考\\WWF-早期草图.jpg",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/原始参考/WWF-早期草图.jpg",
+      "bytes": 146613,
+      "sha256": "61072372D071FD5D6BFFED49C3ED768C92F8A36E609EA2598FB7AAED2C14F0CA",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\图解\\01-并置嵌入共构.png",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/图解/01-并置嵌入共构.png",
+      "bytes": 66508,
+      "sha256": "BAAC0167314E458703FA2BC96FF57D04759190BCFBE88A7EBF1AB5D4F365561E",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\图解\\01-并置嵌入共构.svg",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/图解/01-并置嵌入共构.svg",
+      "bytes": 2643,
+      "sha256": "C5F98DE47C30004183E8528CD88BFF257A5A2AF3956D2994A31A4207630BCBFF",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\图解\\02-鱼群波浪与眼点.png",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/图解/02-鱼群波浪与眼点.png",
+      "bytes": 90618,
+      "sha256": "4A95F5B0B1C12FB3AF3B5410B9324E1C7DE6CF254C09A54D4AAD8B1115717BC4",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\图解\\02-鱼群波浪与眼点.svg",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/图解/02-鱼群波浪与眼点.svg",
+      "bytes": 3895,
+      "sha256": "37C0D443D31EF98A0B85EDB96ABBEE47C14C9DB7285BE8A34998AD58125FE842",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\图解\\03-关系位置对照.png",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/图解/03-关系位置对照.png",
+      "bytes": 54345,
+      "sha256": "D21B988E469426EBD6479E3E3CD5A5104EC627B23DD1CB54D773F1844D3F2633",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\图解\\03-关系位置对照.svg",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/图解/03-关系位置对照.svg",
+      "bytes": 2151,
+      "sha256": "EE9395632DBC0630EDAF30C9BC85733861665A4CC3A91443553F7D34835B44C4",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\图解\\04-十二张结构迁移草图.png",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/图解/04-十二张结构迁移草图.png",
+      "bytes": 107864,
+      "sha256": "992804586017CF470AE07271EB402F3E83ECAD55382F5A8ACD30E969EA2320CD",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\图解\\04-十二张结构迁移草图.svg",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/图解/04-十二张结构迁移草图.svg",
+      "bytes": 5932,
+      "sha256": "2873FCD4E71E551AD81D9AA6219F93D0570432946EF731CA57AFA33DBB151D42",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\图解\\05-整体与局部层级.png",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/图解/05-整体与局部层级.png",
+      "bytes": 52808,
+      "sha256": "69F46D54EBA765D91D854B74FD8374E3F8B461E294DCD3D5F697F2441059588C",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\图解\\05-整体与局部层级.svg",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/图解/05-整体与局部层级.svg",
+      "bytes": 6485,
+      "sha256": "B72D594D048D930DB0D2ACF9C98A97C5E6A9A3300BEA897C1002AF8014DA3A67",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\图解\\论文核对-Chi-01.png",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/图解/论文核对-Chi-01.png",
+      "bytes": 91368,
+      "sha256": "4D41514ACC30527B4C4EFF3377D45E8093137378F73A54F4F8DBA6E117D205E8",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\图解\\论文核对-Chi-02.png",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/图解/论文核对-Chi-02.png",
+      "bytes": 237516,
+      "sha256": "E1EB3A7DA2536D6C0A57A1D80319281A87A0CD9133A4545B0B08E1B1B2302F98",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\图解\\论文核对-Chi-p18.png",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/图解/论文核对-Chi-p18.png",
+      "bytes": 237936,
+      "sha256": "7ECDF215817C0287079AB1FF3C8B6286B779EDB85D84DFF2C70A1362E5488560",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\图解\\论文核对-Dunlosky-p42.png",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/图解/论文核对-Dunlosky-p42.png",
+      "bytes": 428258,
+      "sha256": "B4C6479AE0FCF7E5858DE2E500D35A03F8D86C137E1D47D4C1A5CD79C346FC16",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\图解\\论文核对-Gentner2003-p7.png",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/图解/论文核对-Gentner2003-p7.png",
+      "bytes": 518931,
+      "sha256": "2E3E0B5FCAC644FF4243FF714D4C51B1EB6C1938625BBB8051DAE00483B8542C",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\图解\\原图对照-01.jpg",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/图解/原图对照-01.jpg",
+      "bytes": 136146,
+      "sha256": "7C89264081F6AAE92AE4968AFE1E0C1E9ED7A533220D20D8B220D4553F08DA66",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\图解\\原图对照-02.jpg",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/图解/原图对照-02.jpg",
+      "bytes": 144212,
+      "sha256": "A5E6986F6F21DB289FBF3DC5F4F0F3D9BE6CB2AED8D32BD7B29B3A97098B0F6B",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\图解\\原图对照-03.jpg",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/图解/原图对照-03.jpg",
+      "bytes": 85988,
+      "sha256": "6C4C8C2CA0255CF754C972CE183C5BECF86AE7002F93BD4D8CC85AFE03152E3D",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\图解\\Aquarium-原矢量可见化.png",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/图解/Aquarium-原矢量可见化.png",
+      "bytes": 142213,
+      "sha256": "6CB22630885E76CC27C2C709DFB10BCDC4052F519123865B3470014F4AD21CC8",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\图解\\Mitsubishi-原图预览.png",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/图解/Mitsubishi-原图预览.png",
+      "bytes": 18988,
+      "sha256": "F305187209DE1DF0E21F3E6ED57F98FC68890B0BDC96B5E02C069C74069C2AB4",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\图解\\Unilever-原矢量预览.png",
+      "path": "projects/design/research-20261108/sources/Logo意象转化深研-20261023/图解/Unilever-原矢量预览.png",
+      "bytes": 77856,
+      "sha256": "FE525D82AE9C17867236C500B9BE4C4F4B427EE3316660211A02E77CECE567D0",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字创意再研究-20261021\\01-失败复盘与方法更新.md",
+      "path": "projects/design/research-20261108/sources/汉字创意再研究-20261021/01-失败复盘与方法更新.md",
+      "bytes": 14674,
+      "sha256": "8D9F403386310353AA7F432DFBC052174E5E57C6888F71A51A513BC2E6EBB0EE",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字创意再研究-20261021\\02-案例研究与证据索引.md",
+      "path": "projects/design/research-20261108/sources/汉字创意再研究-20261021/02-案例研究与证据索引.md",
+      "bytes": 13114,
+      "sha256": "44B5A002B639DAAC809456F18EF357C0F7D61B0E24081993BDF2BD4FF5D8B2CB",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字创意再研究-20261021\\03-下次创作工作单.md",
+      "path": "projects/design/research-20261108/sources/汉字创意再研究-20261021/03-下次创作工作单.md",
+      "bytes": 4245,
+      "sha256": "3E4A8BCDC68518FBAAD92764F59EA9663861A3F1BA7A59570A06509698CB42E6",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字创意再研究-20261021\\README.md",
+      "path": "projects/design/research-20261108/sources/汉字创意再研究-20261021/README.md",
+      "bytes": 1264,
+      "sha256": "7986FD4AB798E2E572B33FE2E64AF6176B8C0B11234734970CFAA75B8A148235",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字创意再研究-20261021\\视觉核对\\01-何见平-Coexistence.png",
+      "path": "projects/design/research-20261108/sources/汉字创意再研究-20261021/视觉核对/01-何见平-Coexistence.png",
+      "bytes": 228694,
+      "sha256": "F4A6D70AB74F14CF18CECF530086CF6EEA6A01BE7F807C98F13578BE0DD84408",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字创意再研究-20261021\\视觉核对\\02-何见平-Bilder-Schrift.png",
+      "path": "projects/design/research-20261108/sources/汉字创意再研究-20261021/视觉核对/02-何见平-Bilder-Schrift.png",
+      "bytes": 55096,
+      "sha256": "25461594F28B3B210395D414C2C4C407E617594682BA5E7F61B9C4D734A4D3A9",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字创意再研究-20261021\\视觉核对\\03-自叙帖-局部.png",
+      "path": "projects/design/research-20261108/sources/汉字创意再研究-20261021/视觉核对/03-自叙帖-局部.png",
+      "bytes": 30160,
+      "sha256": "D55382C4EA4BE77D460D47B49E7ADFD1368B6069AF9A37A97B9F0C4BFDCA36CA",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字创意再研究-20261021\\视觉核对\\04-范学超-绞字造象.png",
+      "path": "projects/design/research-20261108/sources/汉字创意再研究-20261021/视觉核对/04-范学超-绞字造象.png",
+      "bytes": 46638,
+      "sha256": "439BD66F09AD0C8F1E7AE8D18FD3B85FA02896CE9177F3AFB878D0202E69811D",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字创意再研究-20261021\\视觉核对\\05-徐冰-英文方块字.png",
+      "path": "projects/design/research-20261108/sources/汉字创意再研究-20261021/视觉核对/05-徐冰-英文方块字.png",
+      "bytes": 94330,
+      "sha256": "E1A8D6363F3A5B86E3DF591F05B6BE9BBB31C88B615E2B1165CB745FEE9EBD05",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字创意再研究-20261021\\视觉核对\\06-徐冰-英文方块字桃花源记.png",
+      "path": "projects/design/research-20261108/sources/汉字创意再研究-20261021/视觉核对/06-徐冰-英文方块字桃花源记.png",
+      "bytes": 128131,
+      "sha256": "DE81228D5770CB5A430365EB54CA191EA58155CB9BDF6DE9A11AAB620C974AF8",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字创意再研究-20261021\\视觉核对\\07-徐冰-苏州文字写生.png",
+      "path": "projects/design/research-20261108/sources/汉字创意再研究-20261021/视觉核对/07-徐冰-苏州文字写生.png",
+      "bytes": 51726,
+      "sha256": "E7A59FB547B4FC88C689FE138E70A9A9995506A2C7E142F655E9F9E717C464AB",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字创意再研究-20261021\\视觉核对\\08-徐冰-苏州文字写生展场.png",
+      "path": "projects/design/research-20261108/sources/汉字创意再研究-20261021/视觉核对/08-徐冰-苏州文字写生展场.png",
+      "bytes": 59368,
+      "sha256": "FA3945FC65557D529958FF256B57E741721AFC8A2FAB8DF718A2F395E35E34F4",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字创意再研究-20261021\\视觉核对\\09-徐冰-Landscript原作页.png",
+      "path": "projects/design/research-20261108/sources/汉字创意再研究-20261021/视觉核对/09-徐冰-Landscript原作页.png",
+      "bytes": 90278,
+      "sha256": "615DE64A3F194839E154866BA17FF6DAF642CA400DDE5FAA47EC1A84595C6212",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字创意再研究-20261021\\视觉核对\\对照-被否定的几何重构.png",
+      "path": "projects/design/research-20261108/sources/汉字创意再研究-20261021/视觉核对/对照-被否定的几何重构.png",
+      "bytes": 1270980,
+      "sha256": "27ECDB8EAA7BD0080A85B8739D85AFC392D40A289C875AEA8F5B1906BA4F917D",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字创意再研究-20261021\\视觉核对\\反例-山字与山景叠加.png",
+      "path": "projects/design/research-20261108/sources/汉字创意再研究-20261021/视觉核对/反例-山字与山景叠加.png",
+      "bytes": 87099,
+      "sha256": "4C5037ED48BD7E5ED791FC5C13FCAD394BA8580AC094C0E2D0B32F3569B48026",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字创意再研究-20261021\\视觉核对\\复看-灯笼整体轮廓.png",
+      "path": "projects/design/research-20261108/sources/汉字创意再研究-20261021/视觉核对/复看-灯笼整体轮廓.png",
+      "bytes": 48014,
+      "sha256": "A910C77D58D382A40A580687965240EED36F261074C646B76C86A8638BF1B93D",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字创意再研究-20261021\\视觉核对\\复看-金文与山海经.png",
+      "path": "projects/design/research-20261108/sources/汉字创意再研究-20261021/视觉核对/复看-金文与山海经.png",
+      "bytes": 54096,
+      "sha256": "639687EA773909A476549EDA93DBFD32EF49841DAB0DBAD7ACFA286D95B362EB",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字创意再研究-20261021\\视觉核对\\复看-贪的抓取动作.png",
+      "path": "projects/design/research-20261108/sources/汉字创意再研究-20261021/视觉核对/复看-贪的抓取动作.png",
+      "bytes": 44557,
+      "sha256": "979424647D9EEDED871552477B8A01E08C4E1B7024DD7DC0B6AD3EDDFF5864FE",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字创意再研究-20261021\\视觉核对\\复看-昭陵六骏.png",
+      "path": "projects/design/research-20261108/sources/汉字创意再研究-20261021/视觉核对/复看-昭陵六骏.png",
+      "bytes": 84560,
+      "sha256": "155E4AC085AB774067317857827732C318527635B5DCA9109C9771D53DC9ECB3",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\汉字重构与意象化研究报告.md",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/汉字重构与意象化研究报告.md",
+      "bytes": 21813,
+      "sha256": "C69A102AD923753895D33E012CB5961871A2601156BE4B0348C19211EB518957",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\D01-单字海报.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/D01-单字海报.png",
+      "bytes": 50845,
+      "sha256": "EF499497FF9D7159C40DDD98B7348FBB80A1A5D0EFE055594E7B952C73822F57",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\D02-字体设计套路.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/D02-字体设计套路.png",
+      "bytes": 44746,
+      "sha256": "D7B867D3E16542085EE226C8E78E94BB2758A41D27C42612F30CBE754A325C9D",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\D02-字体设计套路补充.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/D02-字体设计套路补充.png",
+      "bytes": 42513,
+      "sha256": "E38603711B4681C0FAAA4E60B580164DFDDE36F1225343D37E66968C7D8A3172",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\D03-字形融入图形-补充.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/D03-字形融入图形-补充.png",
+      "bytes": 39237,
+      "sha256": "F288DB9740E652AE8A1A971560FFE9FDEFFC0F649BC87436DA1975E5667BFB59",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\D03-字形融入图形.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/D03-字形融入图形.png",
+      "bytes": 32954,
+      "sha256": "C895B727A21EBB6CB36D3CCAAC86835F3B9B9C390DA21E87ECED9A47C396CF96",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\D04-字图笔画同构.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/D04-字图笔画同构.png",
+      "bytes": 52633,
+      "sha256": "510C7CEC6A1F9255B89D541DF050DF0C163211F1B75A8218F8BD080BF8F79A08",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\D05-鱼字动态-第二帧.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/D05-鱼字动态-第二帧.png",
+      "bytes": 132420,
+      "sha256": "DA5E2A40C57D55F375963C592D77D805B9BDB2F06EAACE6168232A4F092A3698",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\D05-鱼字动态.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/D05-鱼字动态.png",
+      "bytes": 123173,
+      "sha256": "A02DDAC13B6616568B24DCAA7D8D83B3838103E9E5546519C8430B26B22550AE",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\D06-刘兵克字体图形化-第二帧.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/D06-刘兵克字体图形化-第二帧.png",
+      "bytes": 62622,
+      "sha256": "10CDA50BB2452D123EFD92DD8111D17065D4B72A77ABC0F3D3F0CCB5A9082BF6",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\D06-刘兵克字体图形化-第三帧.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/D06-刘兵克字体图形化-第三帧.png",
+      "bytes": 70451,
+      "sha256": "3DCBE7761248B56D01E92AAE180FE3E9C74776FE75A11C86C1863D290D4B7044",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\D06-刘兵克字体图形化-第四帧.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/D06-刘兵克字体图形化-第四帧.png",
+      "bytes": 71196,
+      "sha256": "D34756A52CA43D6D3F4E9C53E0B477CA3DAEFDA956D62FD3C42C9E61B53438B8",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\D06-刘兵克字体图形化.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/D06-刘兵克字体图形化.png",
+      "bytes": 109467,
+      "sha256": "604B94B51132815DA43882D64AE8851DC2FB7DC7BFE2EA7EDB4727020C87FCB0",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\D07-成套字体负形.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/D07-成套字体负形.png",
+      "bytes": 69656,
+      "sha256": "125187AECDD56A7C707F174306DB1A08664D99D469D6D66EC6D771B15A60DD44",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\D08-贵州印象-延展.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/D08-贵州印象-延展.png",
+      "bytes": 90249,
+      "sha256": "39169202A1B5354F312FB32FC26F2D9BC90D16DC63173F15A68605ED3B7BBA07",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\D08-贵州印象.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/D08-贵州印象.png",
+      "bytes": 99983,
+      "sha256": "0876A5BB601EC6A40A0CBBF35AEF57480C3BB70B7ABE8D75AC833517D6C3F4C0",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\D09-文字小设计-第二帧.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/D09-文字小设计-第二帧.png",
+      "bytes": 50755,
+      "sha256": "AD7940C61BA675800EB9AC81D00751C7EDD7ED95692315CFC0C9FCE98A3DF910",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\D09-文字小设计.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/D09-文字小设计.png",
+      "bytes": 50995,
+      "sha256": "C68800C2233FF99458806E3DAD16C932A8355A3654CF4395115BBEC3C67B150F",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\X01-衣食住行.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/X01-衣食住行.png",
+      "bytes": 53752,
+      "sha256": "F22DE8468F87F88D057FE677A19C91442F88D3A62907D05D86EA76E028D05D0D",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\X02-城市地名与地标.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/X02-城市地名与地标.png",
+      "bytes": 71982,
+      "sha256": "153A5AD29C6934EA191718164F6A6E9054C39BB2CF0A0BA66A585D267B689E01",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\X03-象形文字实验鸟.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/X03-象形文字实验鸟.png",
+      "bytes": 60558,
+      "sha256": "98DE04B88E25DBC9523DE1962B4FAAD7D428C41DAC57B1E6D75988C450A75182",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\X04-金文与山海经.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/X04-金文与山海经.png",
+      "bytes": 54096,
+      "sha256": "639687EA773909A476549EDA93DBFD32EF49841DAB0DBAD7ACFA286D95B362EB",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\X05-昭陵六骏小篆重构.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/X05-昭陵六骏小篆重构.png",
+      "bytes": 84560,
+      "sha256": "155E4AC085AB774067317857827732C318527635B5DCA9109C9771D53DC9ECB3",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\X06-曲线重构汉字.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/X06-曲线重构汉字.png",
+      "bytes": 69650,
+      "sha256": "B2B5B1BB62C2774C2E134D660C5E415F029C20E21526D750B97E90D922177094",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\X07-多字组合为画.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/X07-多字组合为画.png",
+      "bytes": 53414,
+      "sha256": "3B84B6D617AE040C631AD64688172B11ADD96FC212A90317762EA79F25B571B1",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\X08-情绪变成图形.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/X08-情绪变成图形.png",
+      "bytes": 44557,
+      "sha256": "979424647D9EEDED871552477B8A01E08C4E1B7024DD7DC0B6AD3EDDFF5864FE",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\X09-灯笼手写字体.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/X09-灯笼手写字体.png",
+      "bytes": 48014,
+      "sha256": "A910C77D58D382A40A580687965240EED36F261074C646B76C86A8638BF1B93D",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\X10-合体字挑战.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/X10-合体字挑战.png",
+      "bytes": 94915,
+      "sha256": "467BBB4C51F4BD7B1E9B9F980498177D0C3C472F0C6B10118008F0A45E176DD9",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\X11-汉字立体意象与提示词.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/X11-汉字立体意象与提示词.png",
+      "bytes": 87973,
+      "sha256": "17C9DAAD5199EBB641D39443437C92898E13301DF4D1DBE7227304C6BDD50A29",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\X11-意象化第2图.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/X11-意象化第2图.png",
+      "bytes": 83838,
+      "sha256": "E47C38679973ABA6E78525E096EF18B55BE8A71C889400AF0B526C9C007EBF5B",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\X11-意象化第3图.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/X11-意象化第3图.png",
+      "bytes": 91910,
+      "sha256": "3097428AE8726D24EA06F9ECEA6C68EDBBEAF6F308B76E3CECCFA2484C8BCBDF",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\X11-意象化第4图.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/X11-意象化第4图.png",
+      "bytes": 88312,
+      "sha256": "8BE66B847281BFDBEB8AF028BB3B7D2AB5EF2597FB7A8FF2C1E520164A81ACB8",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\X11-意象化第5图.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/X11-意象化第5图.png",
+      "bytes": 87876,
+      "sha256": "10FADF134B97846F831992950D21E2E03AB64C19F82BB0EC5B585F64B3EA2D66",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\X11-意象化第6图.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/X11-意象化第6图.png",
+      "bytes": 87324,
+      "sha256": "9ECAD52F791F4CE3772A38334EEAFB9869FB9E73FC34B3A804CF72170C7C6928",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\X11-意象化第7图.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/X11-意象化第7图.png",
+      "bytes": 84662,
+      "sha256": "5DE7DF69EFAC255C8B75CD111F6E16027C3CF3DFE06ABF17B328B5B829EA60B1",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\X11-意象化第8图.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/X11-意象化第8图.png",
+      "bytes": 90217,
+      "sha256": "86BF87166031D8B0E617838DF28EC8FD4D7F17451E7760579DE7299987F57BFB",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\X11-意象化第9图.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/X11-意象化第9图.png",
+      "bytes": 87099,
+      "sha256": "4C5037ED48BD7E5ED791FC5C13FCAD394BA8580AC094C0E2D0B32F3569B48026",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\X12-文化空间拆字.png",
+      "path": "projects/design/research-20261108/sources/汉字设计深入研究/X12-文化空间拆字.png",
+      "bytes": 54746,
+      "sha256": "81B060417F7859ABD1E1F872C988FED2B3610467B41F990606CF265BA24CD381",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\双对话设计复盘-20261024\\01-融合复盘与经验.md",
+      "path": "projects/design/research-20261108/sources/双对话设计复盘-20261024/01-融合复盘与经验.md",
+      "bytes": 16928,
+      "sha256": "EC363DE51E11FB695163D37A3C4A2F1B30E06B33E7AC0B2297350DDC3AF5002F",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\双对话设计复盘-20261024\\02-修正流程与避坑工作卡.md",
+      "path": "projects/design/research-20261108/sources/双对话设计复盘-20261024/02-修正流程与避坑工作卡.md",
+      "bytes": 7086,
+      "sha256": "D977DE935D22DC936E590E2871F260988583BE85CED130616E1D5E34E7ADCE50",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\双对话设计复盘-20261024\\03-资料与版本导航.md",
+      "path": "projects/design/research-20261108/sources/双对话设计复盘-20261024/03-资料与版本导航.md",
+      "bytes": 10284,
+      "sha256": "C32FA7C8D55683D71E611E067BA8A5334ABFFB04435BAEECC006AE8B18961F52",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\双对话设计复盘-20261024\\04-审查结论与后续接续.md",
+      "path": "projects/design/research-20261108/sources/双对话设计复盘-20261024/04-审查结论与后续接续.md",
+      "bytes": 4406,
+      "sha256": "A5209D330C926EB450799CF89476D301C6341D5E6C62FE18919C7F7C92B37623",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\双对话设计复盘-20261024\\核验资料包.cjs",
+      "path": "projects/design/research-20261108/sources/双对话设计复盘-20261024/核验资料包.cjs",
+      "bytes": 1347,
+      "sha256": "BC7258BB22076B5590528D6B9271221863467A3C6DB24D2DE0B3A0835B9B53F0",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\双对话设计复盘-20261024\\整理证据.cjs",
+      "path": "projects/design/research-20261108/sources/双对话设计复盘-20261024/整理证据.cjs",
+      "bytes": 5708,
+      "sha256": "0DFD08FD2D28E0C5E4522F9A9568F937CC82808353A16929FBE2EEA0FAD6E79E",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\双对话设计复盘-20261024\\README.md",
+      "path": "projects/design/research-20261108/sources/双对话设计复盘-20261024/README.md",
+      "bytes": 3127,
+      "sha256": "A9AE6CEF8E4F70C35B8161F6DE869DC0C54CD120B33542C35E7C05A597C75EC6",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\双对话设计复盘-20261024\\关键图版\\01-长江题-被否定的几何稿.png",
+      "path": "projects/design/research-20261108/sources/双对话设计复盘-20261024/关键图版/01-长江题-被否定的几何稿.png",
+      "bytes": 1270980,
+      "sha256": "27ECDB8EAA7BD0080A85B8739D85AFC392D40A289C875AEA8F5B1906BA4F917D",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\双对话设计复盘-20261024\\关键图版\\02-早期羊年-获认可的辅助字调整.png",
+      "path": "projects/design/research-20261108/sources/双对话设计复盘-20261024/关键图版/02-早期羊年-获认可的辅助字调整.png",
+      "bytes": 1607229,
+      "sha256": "6391222DF06A09E614E40481154CDAAE88D67E362D076FEF73FDD7E8F915C2A9",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\双对话设计复盘-20261024\\关键图版\\03-竖版v5-阅读分组问题.png",
+      "path": "projects/design/research-20261108/sources/双对话设计复盘-20261024/关键图版/03-竖版v5-阅读分组问题.png",
+      "bytes": 1509897,
+      "sha256": "3EF93563DC1E58BD93551E8104DF163330B97F3A3277E8BCBCF1A474E734E171",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\双对话设计复盘-20261024\\关键图版\\04-横版-用户认可的小羊基准.png",
+      "path": "projects/design/research-20261108/sources/双对话设计复盘-20261024/关键图版/04-横版-用户认可的小羊基准.png",
+      "bytes": 1797225,
+      "sha256": "64D6674CC68526DFB08711911CC9C9B9B051BAC167CF64A18EAE495457CDF7DA",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\双对话设计复盘-20261024\\关键图版\\05-竖版-最新移植样稿.png",
+      "path": "projects/design/research-20261108/sources/双对话设计复盘-20261024/关键图版/05-竖版-最新移植样稿.png",
+      "bytes": 1754143,
+      "sha256": "62A86168CC3AC218221CF415BF6D1A9E30ED7A8390F6C8FA207759B04E976707",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\电视节目主标研究-20261023\\节目场景诊断与来源.md",
+      "path": "projects/design/research-20261108/sources/电视节目主标研究-20261023/节目场景诊断与来源.md",
+      "bytes": 8554,
+      "sha256": "79BD9E466583CE5680608D96093C9559EB6B5695F96A67E4B591838E6868B52F",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\电视节目主标研究-20261023\\取得已定位图像.py",
+      "path": "projects/design/research-20261108/sources/电视节目主标研究-20261023/取得已定位图像.py",
+      "bytes": 1698,
+      "sha256": "A2C1B6EF679BAB838B092652A8FD504CCAD62B302CE446954C75D99C8434B8BE",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\电视节目主标研究-20261023\\取得原始材料.py",
+      "path": "projects/design/research-20261108/sources/电视节目主标研究-20261023/取得原始材料.py",
+      "bytes": 1809,
+      "sha256": "541CAFF9A6391688CC10D06D1762DC754A2CB15A7479E973F732E0655A924434",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\电视节目主标研究-20261023\\资料\\奥斯卡标识.jpg",
+      "path": "projects/design/research-20261108/sources/电视节目主标研究-20261023/资料/奥斯卡标识.jpg",
+      "bytes": 35087,
+      "sha256": "469ACBBAD03E26B360AD1EFB0175CFD00EF41D32FDDBE414006AF8D89CDBAFFE",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\电视节目主标研究-20261023\\资料\\北京2026-标识.jpg",
+      "path": "projects/design/research-20261108/sources/电视节目主标研究-20261023/资料/北京2026-标识.jpg",
+      "bytes": 282283,
+      "sha256": "6CD0C6FF4629BAB5D77999DE0578F96275DB775D20E5B5C1B4E8C0EED7B9EFE7",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\电视节目主标研究-20261023\\资料\\北京2026-主视觉.jpg",
+      "path": "projects/design/research-20261108/sources/电视节目主标研究-20261023/资料/北京2026-主视觉.jpg",
+      "bytes": 1361692,
+      "sha256": "6854E27C47F8E7D1469EFDB2F8F23B55ABA8B4E3240D8CC40B1AF2FD2ECDE944",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\电视节目主标研究-20261023\\资料\\山东2025-官宣缩略.png",
+      "path": "projects/design/research-20261108/sources/电视节目主标研究-20261023/资料/山东2025-官宣缩略.png",
+      "bytes": 144372,
+      "sha256": "043B9DE0B12568B3E23F421CD52047201B34D758A755B559CD1E12A350341313",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\电视节目主标研究-20261023\\资料\\央视2025-主标.jpg",
+      "path": "projects/design/research-20261108/sources/电视节目主标研究-20261023/资料/央视2025-主标.jpg",
+      "bytes": 924868,
+      "sha256": "A4C5A78916003FA6AFAFF6CD77B14B280E6CA938BD871F1E6AAD1FAD3413C1B5",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\电视节目主标研究-20261023\\资料\\CCTV2026-0.jpg",
+      "path": "projects/design/research-20261108/sources/电视节目主标研究-20261023/资料/CCTV2026-0.jpg",
+      "bytes": 39578,
+      "sha256": "6A62FC2E7F6AF65FF04544E1B2E2D75CC0F6E5B98F8D7D0DD2B578460F859DA9",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\电视节目主标研究-20261023\\资料\\CCTV2026-1.jpg",
+      "path": "projects/design/research-20261108/sources/电视节目主标研究-20261023/资料/CCTV2026-1.jpg",
+      "bytes": 29018,
+      "sha256": "DF6E2B91BC525EF99F670F3669C147CBFC1C4FC60C1A006DA58E5D6C87BA9E03",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\电视节目主标研究-20261023\\资料\\CCTV2026-2.jpg",
+      "path": "projects/design/research-20261108/sources/电视节目主标研究-20261023/资料/CCTV2026-2.jpg",
+      "bytes": 118158,
+      "sha256": "7DD4BB9B05CFC5D3B3EC124F2123EA44E325F51E22A858B640F4A0399E9ECCEA",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\电视节目主标研究-20261023\\资料\\Eurovision2026.png",
+      "path": "projects/design/research-20261108/sources/电视节目主标研究-20261023/资料/Eurovision2026.png",
+      "bytes": 326082,
+      "sha256": "430ABD327161EF481D703C21A875F47ED8DC9C84175FF9B2BB25089041E78915",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\00-需求理解与待确认.md",
+      "path": "projects/design/research-20261108/sources/龙舟亚克力摆件-20261105/00-需求理解与待确认.md",
+      "bytes": 5501,
+      "sha256": "764BF51B91C19E584C4682BE02211453922CE7BF49D4F91ED1503CF9AB9FA41F",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\01-单板双面修改记录与提示词.md",
+      "path": "projects/design/research-20261108/sources/龙舟亚克力摆件-20261105/01-单板双面修改记录与提示词.md",
+      "bytes": 5848,
+      "sha256": "04A470F57EF61ADD0AF5CD2ADC21AF966EB43ABCF048953A18D3D1F1C87B9A51",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\02-加底座正反面-修改记录与提示词.md",
+      "path": "projects/design/research-20261108/sources/龙舟亚克力摆件-20261105/02-加底座正反面-修改记录与提示词.md",
+      "bytes": 6264,
+      "sha256": "1A2E77FF0C04A5546ABBB2756C6867DEE94997ACFD6455B6ED171DCE9B6A4E01",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\工作大纲.md",
+      "path": "projects/design/research-20261108/sources/龙舟亚克力摆件-20261105/矢量交付/工作大纲.md",
+      "bytes": 1389,
+      "sha256": "B9BC1A0C26AA70965320235CB870E9146EAC8EFA32B7B00371A95F96CB54F41F",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\矢量使用说明.md",
+      "path": "projects/design/research-20261108/sources/龙舟亚克力摆件-20261105/矢量交付/矢量使用说明.md",
+      "bytes": 2807,
+      "sha256": "E42D6AA1F0875162F571389FC84167021F78074112E50528871C5E68CD5550C7",
+      "category": "设计研究与项目证据"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\龙舟奖杯-正反面矢量文件\\矢量使用说明.md",
+      "path": "projects/design/research-20261108/sources/龙舟亚克力摆件-20261105/矢量交付/龙舟奖杯-正反面矢量文件/矢量使用说明.md",
+      "bytes": 2807,
+      "sha256": "E42D6AA1F0875162F571389FC84167021F78074112E50528871C5E68CD5550C7",
+      "category": "设计研究与项目证据"
+    }
+  ]
+}

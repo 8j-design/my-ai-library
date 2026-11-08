@@ -1,0 +1,1164 @@
+{
+  "date": "2026-11-08",
+  "scope": "仅列本次所选任务目录中未复制项，不是全电脑未备份清单",
+  "files": [
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\电视节目主标研究-20261023\\资料\\北京2026.html",
+      "bytes": 43163,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\电视节目主标研究-20261023\\资料\\来源.json",
+      "bytes": 4653,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\电视节目主标研究-20261023\\资料\\山东2025.html",
+      "bytes": 47118,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\电视节目主标研究-20261023\\资料\\图像来源.json",
+      "bytes": 3015,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\电视节目主标研究-20261023\\资料\\央视2025-实际页.html",
+      "bytes": 21568,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\电视节目主标研究-20261023\\资料\\央视2025.html",
+      "bytes": 180,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\电视节目主标研究-20261023\\资料\\央视2026-官宣.html",
+      "bytes": 53209,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\汉字设计深入研究\\补充查阅记录.json",
+      "bytes": 111362,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\00-用户原始龙舟效果图.png",
+      "bytes": 2322868,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\01-单板双面效果-概念示意.png",
+      "bytes": 1811149,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\02-加底座-正面效果.png",
+      "bytes": 1740864,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\03-加底座-背面效果.png",
+      "bytes": 1811810,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\检查底座.py",
+      "bytes": 682,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\检查像素差.py",
+      "bytes": 768,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\交付核验.json",
+      "bytes": 677,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\交付核验.py",
+      "bytes": 2030,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\龙舟奖杯-背面-白底预览.png",
+      "bytes": 924465,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\龙舟奖杯-背面-矢量.pdf",
+      "bytes": 3811879,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\龙舟奖杯-背面-透明矢量.svg",
+      "bytes": 15397252,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\龙舟奖杯-背面-透明预览.png",
+      "bytes": 990139,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\龙舟奖杯-正反面矢量文件.zip",
+      "bytes": 17496221,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\龙舟奖杯-正面-白底预览.png",
+      "bytes": 905639,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\龙舟奖杯-正面-矢量.pdf",
+      "bytes": 4082559,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\龙舟奖杯-正面-透明矢量.svg",
+      "bytes": 15212525,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\龙舟奖杯-正面-透明预览.png",
+      "bytes": 968534,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\矢量检查.json",
+      "bytes": 901,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\渲染检查.json",
+      "bytes": 184,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\渲染与导出.cjs",
+      "bytes": 1525,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\优化渐变与路径.py",
+      "bytes": 1995,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\预览检查.cjs",
+      "bytes": 655,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\制作矢量.py",
+      "bytes": 2698,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\.lock",
+      "bytes": 0,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\LICENSE",
+      "bytes": 1082,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\__init__.py",
+      "bytes": 6793,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\__init__.pyi",
+      "bytes": 308574,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\config-3.py",
+      "bytes": 748,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\config.py",
+      "bytes": 123,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\cv2.pyd",
+      "bytes": 74698752,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\LICENSE-3RD-PARTY.txt",
+      "bytes": 155450,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\LICENSE.txt",
+      "bytes": 1090,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\load_config_py2.py",
+      "bytes": 157,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\load_config_py3.py",
+      "bytes": 271,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\opencv_videoio_ffmpeg4110_64.dll",
+      "bytes": 27954688,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\py.typed",
+      "bytes": 0,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\version.py",
+      "bytes": 96,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\aruco\\__init__.pyi",
+      "bytes": 14298,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\barcode\\__init__.pyi",
+      "bytes": 1480,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\cuda\\__init__.pyi",
+      "bytes": 16617,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\data\\__init__.py",
+      "bytes": 73,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\data\\haarcascade_eye_tree_eyeglasses.xml",
+      "bytes": 601661,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\data\\haarcascade_eye.xml",
+      "bytes": 341406,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\data\\haarcascade_frontalcatface_extended.xml",
+      "bytes": 382918,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\data\\haarcascade_frontalcatface.xml",
+      "bytes": 411388,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\data\\haarcascade_frontalface_alt_tree.xml",
+      "bytes": 2689040,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\data\\haarcascade_frontalface_alt.xml",
+      "bytes": 676709,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\data\\haarcascade_frontalface_alt2.xml",
+      "bytes": 540616,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\data\\haarcascade_frontalface_default.xml",
+      "bytes": 930127,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\data\\haarcascade_fullbody.xml",
+      "bytes": 476827,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\data\\haarcascade_lefteye_2splits.xml",
+      "bytes": 195369,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\data\\haarcascade_license_plate_rus_16stages.xml",
+      "bytes": 47775,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\data\\haarcascade_lowerbody.xml",
+      "bytes": 395322,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\data\\haarcascade_profileface.xml",
+      "bytes": 828514,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\data\\haarcascade_righteye_2splits.xml",
+      "bytes": 196170,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\data\\haarcascade_russian_plate_number.xml",
+      "bytes": 75482,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\data\\haarcascade_smile.xml",
+      "bytes": 188506,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\data\\haarcascade_upperbody.xml",
+      "bytes": 785819,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\data\\__pycache__\\__init__.cpython-312.pyc",
+      "bytes": 414,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\detail\\__init__.pyi",
+      "bytes": 22974,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\dnn\\__init__.pyi",
+      "bytes": 23555,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\Error\\__init__.pyi",
+      "bytes": 4194,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\fisheye\\__init__.pyi",
+      "bytes": 9023,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\flann\\__init__.pyi",
+      "bytes": 2741,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\__init__.py",
+      "bytes": 10621,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\__init__.pyi",
+      "bytes": 14985,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\core\\__init__.pyi",
+      "bytes": 149,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\core\\cpu\\__init__.pyi",
+      "bytes": 102,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\core\\fluid\\__init__.pyi",
+      "bytes": 102,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\core\\ocl\\__init__.pyi",
+      "bytes": 102,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\ie\\__init__.pyi",
+      "bytes": 1168,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\ie\\detail\\__init__.pyi",
+      "bytes": 281,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\imgproc\\__init__.pyi",
+      "bytes": 76,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\imgproc\\fluid\\__init__.pyi",
+      "bytes": 102,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\oak\\__init__.pyi",
+      "bytes": 1771,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\onnx\\__init__.pyi",
+      "bytes": 1552,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\onnx\\ep\\__init__.pyi",
+      "bytes": 1420,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\ot\\__init__.pyi",
+      "bytes": 752,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\ot\\cpu\\__init__.pyi",
+      "bytes": 102,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\ov\\__init__.pyi",
+      "bytes": 2721,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\own\\__init__.pyi",
+      "bytes": 74,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\own\\detail\\__init__.pyi",
+      "bytes": 150,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\render\\__init__.pyi",
+      "bytes": 71,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\render\\ocv\\__init__.pyi",
+      "bytes": 102,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\streaming\\__init__.pyi",
+      "bytes": 855,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\video\\__init__.pyi",
+      "bytes": 160,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\wip\\__init__.pyi",
+      "bytes": 1127,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\wip\\draw\\__init__.pyi",
+      "bytes": 3281,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\wip\\gst\\__init__.pyi",
+      "bytes": 484,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\wip\\onevpl\\__init__.pyi",
+      "bytes": 413,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\gapi\\__pycache__\\__init__.cpython-312.pyc",
+      "bytes": 25182,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\ipp\\__init__.pyi",
+      "bytes": 237,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\mat_wrapper\\__init__.py",
+      "bytes": 1164,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\mat_wrapper\\__pycache__\\__init__.cpython-312.pyc",
+      "bytes": 1972,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\misc\\__init__.py",
+      "bytes": 38,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\misc\\version.py",
+      "bytes": 95,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\misc\\__pycache__\\__init__.cpython-312.pyc",
+      "bytes": 261,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\misc\\__pycache__\\version.cpython-312.pyc",
+      "bytes": 419,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\ml\\__init__.pyi",
+      "bytes": 23498,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\ocl\\__init__.pyi",
+      "bytes": 5779,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\ogl\\__init__.pyi",
+      "bytes": 1523,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\parallel\\__init__.pyi",
+      "bytes": 135,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\samples\\__init__.pyi",
+      "bytes": 336,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\segmentation\\__init__.pyi",
+      "bytes": 1778,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\typing\\__init__.py",
+      "bytes": 5519,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\typing\\__pycache__\\__init__.cpython-312.pyc",
+      "bytes": 6831,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\utils\\__init__.py",
+      "bytes": 344,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\utils\\__init__.pyi",
+      "bytes": 3701,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\utils\\fs\\__init__.pyi",
+      "bytes": 93,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\utils\\nested\\__init__.pyi",
+      "bytes": 604,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\utils\\__pycache__\\__init__.cpython-312.pyc",
+      "bytes": 663,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\videoio_registry\\__init__.pyi",
+      "bytes": 993,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\__pycache__\\__init__.cpython-312.pyc",
+      "bytes": 9600,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\__pycache__\\load_config_py3.cpython-312.pyc",
+      "bytes": 814,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\cv2\\__pycache__\\version.cpython-312.pyc",
+      "bytes": 314,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\opencv_python_headless-4.11.0.86.dist-info\\INSTALLER",
+      "bytes": 2,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\opencv_python_headless-4.11.0.86.dist-info\\LICENSE-3RD-PARTY.txt",
+      "bytes": 155450,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\opencv_python_headless-4.11.0.86.dist-info\\LICENSE.txt",
+      "bytes": 1090,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\opencv_python_headless-4.11.0.86.dist-info\\METADATA",
+      "bytes": 20606,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\opencv_python_headless-4.11.0.86.dist-info\\RECORD",
+      "bytes": 7576,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\opencv_python_headless-4.11.0.86.dist-info\\REQUESTED",
+      "bytes": 0,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\opencv_python_headless-4.11.0.86.dist-info\\top_level.txt",
+      "bytes": 4,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\opencv_python_headless-4.11.0.86.dist-info\\WHEEL",
+      "bytes": 94,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\vtracer\\__init__.py",
+      "bytes": 120,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\vtracer\\README.md",
+      "bytes": 3858,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\vtracer\\vtracer.cp312-win_amd64.pyd",
+      "bytes": 1914880,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\vtracer\\vtracer.pyi",
+      "bytes": 3640,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\vtracer\\__pycache__\\__init__.cpython-312.pyc",
+      "bytes": 342,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\vtracer-0.6.15.dist-info\\INSTALLER",
+      "bytes": 2,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\vtracer-0.6.15.dist-info\\METADATA",
+      "bytes": 4399,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\vtracer-0.6.15.dist-info\\RECORD",
+      "bytes": 978,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\vtracer-0.6.15.dist-info\\REQUESTED",
+      "bytes": 0,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\vtracer-0.6.15.dist-info\\WHEEL",
+      "bytes": 97,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\vtracer-0.6.15.dist-info\\licenses\\LICENSE",
+      "bytes": 1082,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\_tools\\vtracer-0.6.15.dist-info\\sboms\\vtracer.cyclonedx.json",
+      "bytes": 74893,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\过程文件\\背面-抠图基准.png",
+      "bytes": 1619379,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\过程文件\\背面-透明轮廓.png",
+      "bytes": 11432,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\过程文件\\背面-PDF核看.png",
+      "bytes": 797014,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\过程文件\\正面-抠图基准.png",
+      "bytes": 1514780,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\过程文件\\正面-透明轮廓.png",
+      "bytes": 10497,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\过程文件\\正面-PDF核看.png",
+      "bytes": 769320,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\龙舟奖杯-正反面矢量文件\\交付核验.json",
+      "bytes": 677,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\龙舟奖杯-正反面矢量文件\\龙舟奖杯-背面-白底预览.png",
+      "bytes": 924465,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\龙舟奖杯-正反面矢量文件\\龙舟奖杯-背面-矢量.pdf",
+      "bytes": 3811879,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\龙舟奖杯-正反面矢量文件\\龙舟奖杯-背面-透明矢量.svg",
+      "bytes": 15397252,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\龙舟奖杯-正反面矢量文件\\龙舟奖杯-背面-透明预览.png",
+      "bytes": 990139,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\龙舟奖杯-正反面矢量文件\\龙舟奖杯-正面-白底预览.png",
+      "bytes": 905639,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\龙舟奖杯-正反面矢量文件\\龙舟奖杯-正面-矢量.pdf",
+      "bytes": 4082559,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\龙舟奖杯-正反面矢量文件\\龙舟奖杯-正面-透明矢量.svg",
+      "bytes": 15212525,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\龙舟亚克力摆件-20261105\\矢量交付\\龙舟奖杯-正反面矢量文件\\龙舟奖杯-正面-透明预览.png",
+      "bytes": 968534,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\双对话设计复盘-20261024\\证据\\汉字重构-对话摘录.md",
+      "bytes": 85576,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\双对话设计复盘-20261024\\证据\\汉字重构-取回记录.json",
+      "bytes": 193183,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\双对话设计复盘-20261024\\证据\\聊天文件定位.json",
+      "bytes": 241538,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\双对话设计复盘-20261024\\证据\\项目文件定位索引.md",
+      "bytes": 3816,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\双对话设计复盘-20261024\\证据\\项目文件清单.csv",
+      "bytes": 104174,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\双对话设计复盘-20261024\\证据\\羊年-对话摘录.md",
+      "bytes": 249971,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\双对话设计复盘-20261024\\证据\\羊年-取回记录.json",
+      "bytes": 763529,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\双对话设计复盘-20261024\\证据\\整理核验.json",
+      "bytes": 11302,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\双对话设计复盘-20261024\\证据\\资料包链接与轮次核验.json",
+      "bytes": 1035,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\补充下载核验.json",
+      "bytes": 2408,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\交付核验.json",
+      "bytes": 3065,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\下载核验.json",
+      "bytes": 7122,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\cafa-sources-下载核验.json",
+      "bytes": 1309,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\cafa-sources.json",
+      "bytes": 823,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\download-sources.ps1",
+      "bytes": 1441,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\extra-sources.json",
+      "bytes": 1606,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\final-sources-下载核验.json",
+      "bytes": 2746,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\final-sources.json",
+      "bytes": 1849,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\sources.json",
+      "bytes": 4883,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\论文\\阅读页索引.json",
+      "bytes": 5624,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\论文\\Chi1989-全文提取.txt",
+      "bytes": 487,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\论文\\Chi1989.pdf",
+      "bytes": 2749420,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\论文\\Dunlosky2013-全文提取.txt",
+      "bytes": 336595,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\论文\\Dunlosky2013.pdf",
+      "bytes": 545474,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\论文\\FauconnierTurner1998-全文提取.txt",
+      "bytes": 162033,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\论文\\FauconnierTurner1998.pdf",
+      "bytes": 3194240,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\论文\\Gentner1983-全文提取.txt",
+      "bytes": 42883,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\论文\\Gentner1983.pdf",
+      "bytes": 1408913,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\论文\\Gentner2003-全文提取.txt",
+      "bytes": 97098,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\论文\\Gentner2003.pdf",
+      "bytes": 134749,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\论文\\IOC-历届会徽资料.pdf",
+      "bytes": 367,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\论文\\Schon1992-全文提取.txt",
+      "bytes": 59189,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\论文\\Schon1992.pdf",
+      "bytes": 2457305,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\论文\\SchwartzBransford1998-全文提取.txt",
+      "bytes": 136997,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\设计\\Logo意象转化深研-20261023\\论文\\SchwartzBransford1998.pdf",
+      "bytes": 1000407,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    }
+  ]
+}
