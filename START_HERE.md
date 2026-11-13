@@ -1,18 +1,19 @@
-> 2026-11-08增量整理：[三项目归档与规则融合](notes/research-archive-20261108.md)，[设计研究原件](projects/design/research-20261108/README.md)。协作规范现为v1.3，正文与历史分开。
+> 2026-11-08增量整理：[三项目归档与规则融合](notes/research-archive-20261108.md)，[设计研究原件](projects/design/research-20261108/README.md)。当时协作规范同步至v1.3，正文与历史分开。
 
 # 私有资料库：统一接续与归档入口
 
-更新：2026-11-05（北京时间）。固定私有库：[8j-design/my-ai-library](https://github.com/8j-design/my-ai-library)，主分支 main。登录状态每次以实际连接核验，不由本文保证。
+更新：2026-11-13（北京时间）。固定私有库：[8j-design/my-ai-library](https://github.com/8j-design/my-ai-library)，主分支 main。登录状态每次以实际连接核验，不由本文保证。
 
 ## 先找哪一份
 
 | 当前需要 | 入口 | 范围 |
 | --- | --- | --- |
 | 资料库操作、授权与归档 | [AGENTS.md](AGENTS.md) | 当前 v2.1，16 项合并规则 |
-| 总管理与创作协作 | [COLLABORATION](notes/COLLABORATION.md) | 当前 v1.3；目标、判断、反馈、接续与有限重试 |
+| 总管理与创作协作 | [COLLABORATION](notes/COLLABORATION.md) | 当前 v1.4；目标、判断、反馈、接续、取证与有限重试 |
 | 导出含历史的备份、换模型接续 | [完整历史备份与接续](notes/backup-and-handoff.md) | 当前文件、Git 历史、迭代说明、恢复检查；本地容量约 10 GiB 为可调整参考 |
 | 这次为什么改规则 | [规则审查与 Autoloop 对照](notes/governance-audit-20261105.md) | 旧 23 条逐项去向、实际改动与验证边界 |
 | 初次了解和 Git 起步 | [README](README.md)、[学习顺序](notes/learning-guide.md)、[Git 教程](notes/git-github.md) | 按需要阅读，不要求每次重走教程 |
+| 视频、图文学习与工具评估 | [可追溯学习流程](notes/media-learning-workflow-20261113.md) | 原图／字幕／画面取证、来源与采纳分开；yt-dlp／Whisper 尚未实测 |
 | 查外部开源项目 | [INDEX](INDEX.md) | 3 张外部项目卡；不代表已安装 |
 | 创意设计 | [creative-craft v5](skills/creative-craft/SKILL.md)、[执行和使用记录](notes/creative-craft-workflow.md) | 从需求到作品；当前任务验证不能由历史格式检查替代 |
 | 汉字 Logo 与创意标题 | [hanzi-logo-design](skills/hanzi-logo-design/SKILL.md)、[研究资料包](notes/hanzi-congruence-20261021/README.md) | 依据用途处理识别和意象；案例偏好留项目 |
