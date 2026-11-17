@@ -2,13 +2,14 @@
 
 # 私有资料库：统一接续与归档入口
 
-更新：2026-11-13（北京时间）。固定私有库：[8j-design/my-ai-library](https://github.com/8j-design/my-ai-library)，主分支 main。登录状态每次以实际连接核验，不由本文保证。
+更新：2026-11-17（北京时间）。固定私有库：[8j-design/my-ai-library](https://github.com/8j-design/my-ai-library)，主分支 main。登录状态每次以实际连接核验，不由本文保证。
 
 ## 先找哪一份
 
 | 当前需要 | 入口 | 范围 |
 | --- | --- | --- |
-| 资料库操作、授权与归档 | [AGENTS.md](AGENTS.md) | 当前 v2.1，16 项合并规则 |
+| 整个 Codex 的共同工作要求 | [全局协作规范](CODEX_GLOBAL.md)、[接入与核验](CODEX_SETUP.md) | 权威规范、实际覆盖与跨环境接入步骤 |
+| 资料库操作、授权与归档 | [AGENTS.md](AGENTS.md) | 当前 v2.2，16 项库内规则，继承全局规范 |
 | 总管理与创作协作 | [COLLABORATION](notes/COLLABORATION.md) | 当前 v1.4；目标、判断、反馈、接续、取证与有限重试 |
 | 导出含历史的备份、换模型接续 | [完整历史备份与接续](notes/backup-and-handoff.md) | 当前文件、Git 历史、迭代说明、恢复检查；本地容量约 10 GiB 为可调整参考 |
 | 这次为什么改规则 | [规则审查与 Autoloop 对照](notes/governance-audit-20261105.md) | 旧 23 条逐项去向、实际改动与验证边界 |
@@ -19,7 +20,7 @@
 | 汉字 Logo 与创意标题 | [hanzi-logo-design](skills/hanzi-logo-design/SKILL.md)、[研究资料包](notes/hanzi-congruence-20261021/README.md) | 依据用途处理识别和意象；案例偏好留项目 |
 | 影视创作与导演接续 | [film-creation](skills/film-creation/SKILL.md)、[当前项目决定](notes/director-project-continuity.md)、[需求工作表](notes/director-execution-v2.md) | 专业方法与项目状态；本次不启动导演新制作 |
 
-先读 AGENTS 和本入口，再按任务读正文。日常从一项相关资料开始，跨文件审查允许扩大范围。技能正文、资料卡和当前运行能力分别核对；仓库文件存在不表示所有聊天自动加载。
+本库是用户整个 Codex 协作的核心规则、方法与备份中心。先读 CODEX_GLOBAL、AGENTS 和本入口，再按任务读正文。日常从一项相关资料开始，跨文件审查允许扩大范围。技能正文、资料卡和当前运行能力分别核对；仓库文件存在不表示所有聊天自动加载。
 
 ## 保存到哪里
 
